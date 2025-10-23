@@ -1,0 +1,5 @@
+#TESTING FILE FOR ALGORITHMS.
+
+arr = [1, 4, 10, 93, 32]
+
+
