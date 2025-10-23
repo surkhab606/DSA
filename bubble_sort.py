@@ -20,7 +20,7 @@ def bubble_sort(arr):
             if arr[j] > arr[j + 1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
 
-    print(arr)
+    return arr
 
 arrayy = [5, 1, 2, 4, 9, 3]
 print(bubble_sort(arrayy))
