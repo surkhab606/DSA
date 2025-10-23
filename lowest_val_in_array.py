@@ -1,4 +1,4 @@
-# ALGO. FOR FINDING THE LOWEST VALUE IN AN ARRAY
+# ALGO. FOR FINDING THE LOWEST VALUE IN AN ARRAY: O(N)
 
 def lowest_val(arr):
     lowest = arr[0]

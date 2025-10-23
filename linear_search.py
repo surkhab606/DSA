@@ -1,4 +1,4 @@
-# LINEAR SEARCH : 0(n)^2
+# LINEAR SEARCH : 0(N)
 # Search through array one by one, comparing values. 
 
 
